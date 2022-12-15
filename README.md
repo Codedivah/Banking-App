@@ -1,1 +1,0 @@
-A Banking App that aims to make digital payment more accessible and flexible for customers.
